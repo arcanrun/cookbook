@@ -1,0 +1,1 @@
+# Some useful notes for myself
